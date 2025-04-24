@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I'm a first year doctoral student from [ETH Zurich](https://ethz.ch/de.html). My research interest includes AI for drug discovery, LLM in bioscience and applying machine learning in biology.  
+I'm a doctoral student at [ETH Zurich](https://ethz.ch/de.html) with a research focus on applying artificial intelligence to accelerate drug discovery, engineer therapeutic antibodies, and design experiments guided by machine learning.
