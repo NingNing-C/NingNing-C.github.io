@@ -6,6 +6,6 @@ permalink: /publication/2024-06-17-Navigating-Trustworthiness-Deep-Learning-DDG
 date: 2024-06-17
 venue: 'ML4LMS Workshop at ICML 2024'
 paperurl: 'https://openreview.net/forum?id=XU1ACMwTlr'
-citation: 'Zhang, R.*, <b>Chen, N.*<b>,, Zhou, F., & Gao, X. (2024). Navigating Trustworthiness of Deep Learning in ∆∆G Prediction: Addressing Data Bias, Model Evaluation, and Interpretation. ML4LMS Workshop at ICML 2024. https://openreview.net/forum?id=XU1ACMwTlr'
+citation: 'Zhang, R.*, <b>Chen, N.*</b>,, Zhou, F., & Gao, X. (2024). Navigating Trustworthiness of Deep Learning in ∆∆G Prediction: Addressing Data Bias, Model Evaluation, and Interpretation. ML4LMS Workshop at ICML 2024. https://openreview.net/forum?id=XU1ACMwTlr'
 ---
 [Download paper here](https://openreview.net/pdf?id=XU1ACMwTlr)
