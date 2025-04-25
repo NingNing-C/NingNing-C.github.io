@@ -8,4 +8,5 @@ venue: 'Nature communications'
 paperurl: 'https://www.nature.com/articles/s41467-023-39199-6'
 citation: 'Han, W.*, <b>Chen, N.*</b>, Xu, X.* et al. Predicting the antigenic evolution of SARS-COV-2 with deep learning. Nat Commun 14, 3478 (2023). https://doi.org/10.1038/s41467-023-39199-6'
 ---
+*Co-first author  
 [Download paper here](https://www.nature.com/articles/s41467-023-39199-6.pdf)
